@@ -1,0 +1,8 @@
+/bin
+/bin/*
+/libs/log
+/libs/log/*
+/domain/
+/dataAccess/
+/gui/
+/resources/db/*
